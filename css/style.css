@@ -1,0 +1,19 @@
+.container{
+    text-align: center;  
+}
+.button button{
+    color: red;
+    font-size: 20px;
+}
+.fa-edit{
+    color:black;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;  
+    
+}
+.fa-trash{
+    color: black;
+    font-size: 30px;
+    text-align: center;  
+}
